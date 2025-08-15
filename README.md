@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Jayden! 👋
 
-<p>데이터와 기술을 통해 인사이트를 얻는 것을 즐기는 개발자 지망생입니다.<br>꾸준히 배우고 성장하는 것을 좋아합니다.</p>
+<p>An aspiring Quantitative Researcher passionate about financial markets. I'm currently focused on learning quantitative modeling and research methodologies to build data-driven investment strategies.</p>
 
 ---
 
