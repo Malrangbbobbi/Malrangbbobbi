@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f6/89/1c/f6891c3a87da774b32c3b1eb61657234.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/f6/89/1c/f6891c3a87da774b32c3b1eb61657234.gif" width="50%"/>
 
 ### Hi there, I'm Jayden! 👋
 
