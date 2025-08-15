@@ -30,7 +30,6 @@
 ---
 
 ### **📫 How to reach me**
-### **📫 How to reach me**
 <p>
   <a href="https://malrangbbobbi.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jayden-yun-4b89212b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
