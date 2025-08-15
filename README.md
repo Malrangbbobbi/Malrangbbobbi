@@ -30,10 +30,11 @@
 ---
 
 ### **📫 How to reach me**
+### **📫 How to reach me**
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Blogger&logoColor=white"></a>
-</p>
+  <a href="https://malrangbbobbi.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jayden-yun-4b89/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  </p>
 
 <!--
 **Malrangbbobbi/Malrangbbobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
