@@ -6,6 +6,24 @@
 
 ---
 
+### **🏆 Projects & Experience (2024)**
+
+* **Shinhan Card Big Data Hackathon | Finalist**
+    * Proposed a renewal strategy for the 'Alpha Plus Shinhan Card' by analyzing card consumption data, focusing on an activation plan for inactive customers.
+    * *Role: Team Member*
+
+* **Sogang University AI Automation Hackathon | 1st Place**
+    * Led the development of "Economic News, Fast and Easy!", an automated news summarization service using a Telegram chatbot.
+    * *Role: Team Lead*
+
+* **Sogang University Convergence Competition | Finalist**
+    * Led and authored a research report on the global economic outlook following the election of Donald Trump, proposing a new factor model based on macroeconomic and financial economic analysis.
+    * *Role: Team Lead*
+
+---
+
+
+
 ### **🛠️ My Tech Stack**
 <div>
   <p><b>Languages</b></p>
