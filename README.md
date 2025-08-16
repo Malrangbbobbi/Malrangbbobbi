@@ -25,6 +25,10 @@
 * **Sogang University Convergence Competition | Finalist**
     * Led and authored a research report on the global economic outlook following the election of Donald Trump, proposing a new factor model based on macroeconomic and financial economic analysis.
     * *Role: Team Lead*
+ 
+**2023**
+* **The 1st SG Competition | Grand Prize (Finance Division)**
+    * *Role: Team Lead*
 
 ---
 
