@@ -6,8 +6,14 @@
 
 ---
 
-### **🏆 Projects & Experience (2024)**
+### **🏆 Projects & Experience**
 
+**2025**
+* **WorldQuant International Quant Championship | 2nd Place**
+    * Demonstrated strong quantitative modeling and mathematical skills in a global competition.
+    * *Role: Team Lead*
+
+**2024**
 * **Shinhan Card Big Data Hackathon | Finalist**
     * Proposed a renewal strategy for the 'Alpha Plus Shinhan Card' by analyzing card consumption data, focusing on an activation plan for inactive customers.
     * *Role: Team Member*
@@ -19,6 +25,12 @@
 * **Sogang University Convergence Competition | Finalist**
     * Led and authored a research report on the global economic outlook following the election of Donald Trump, proposing a new factor model based on macroeconomic and financial economic analysis.
     * *Role: Team Lead*
+
+---
+
+### **📜 Certificates**
+* **SQLD (SQL Developer)** | Korea Data Industry Agency (K-DATA) | *Acquired 2025*
+* **Certified Investment Manager** | Korea Financial Investment Association (KOFIA) | *Acquired 2023*
 
 ---
 
