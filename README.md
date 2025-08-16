@@ -16,6 +16,7 @@
 **2024**
 * **Upstage LLM Project Hackathon (at Sogang University) | Finalist**
     * Developed and submitted a project for a specialized Financial AI Translation Service.
+    * *Role: Team Lead*
 
 * **Shinhan Financial Group Big Data Hackathon | Finalist, Shinhan Investment & Securities Division**
     * Proposed a renewal strategy for the 'Alpha Plus Card' by analyzing card consumption data.
