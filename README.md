@@ -8,27 +8,30 @@
 
 ### **🏆 Projects & Experience**
 
-* **Quantitative Modeling & Mathematical Skills**
-    * **WorldQuant International Quant Championship | 2nd Place (2025)**
+**2025**
+* **WorldQuant International Quant Championship | 2nd Place**
+    * Demonstrated strong quantitative modeling and mathematical skills in a global competition.
     * *Role: Team Lead*
 
-* **Proposal of a New Factor Model based on Macroeconomic Analysis**
-    * **Sogang University Convergence Competition | Finalist (2024)**
-    * Authored a research report on the global economic outlook following the election of Donald Trump.
-    * *Role: Team Lead*
+**2024**
+* **Upstage LLM Project Hackathon (at Sogang University) | Finalist**
+    * Developed and submitted a project for a specialized Financial AI Translation Service.
 
-* **Automated News Summarization Service using a Telegram Bot**
-    * **Sogang University AI Automation Hackathon | 1st Place (2024)**
-    * Developed "Economic News, Fast and Easy!" to provide quick insights from economic news.
-    * *Role: Team Lead*
-
-* **Card Consumption Data Analysis to Renew 'Alpha Plus Card'**
-    * **Shinhan Financial Group Big Data Hackathon | Finalist, Shinhan Investment & Securities Division (2024)**
-    * Focused on an activation plan for inactive customers through data analysis.
+* **Shinhan Financial Group Big Data Hackathon | Finalist, Shinhan Investment & Securities Division**
+    * Proposed a renewal strategy for the 'Alpha Plus Card' by analyzing card consumption data.
     * *Role: Team Member*
 
-* **Financial Market Analysis**
-    * **The 1st SG Competition | Grand Prize, Finance Division (2023)**
+* **Sogang University AI Automation Hackathon | 1st Place**
+    * Led the development of "Economic News, Fast and Easy!", an automated news summarization service.
+    * *Role: Team Lead*
+
+* **Sogang University Convergence Competition | Finalist**
+    * Authored a research report proposing a new factor model based on macroeconomic analysis.
+    * *Role: Team Lead*
+
+**2023**
+* **The 1st SG Competition | Grand Prize, Finance Division**
+    * Led the team in a financial market analysis project.
     * *Role: Team Lead*
 
 ---
