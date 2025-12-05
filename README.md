@@ -9,7 +9,7 @@
 ### 🏆 Projects & Experience
 
 **2025**
-* **Sogang University Convergence Technology Competition | Excellence Award (우수상)**
+* **Sogang University Convergence Technology Competition | Excellence Award**
     * Led a project developing an SDGs-based corporate analysis system integrating NLP, sentiment analysis, and risk-tagging models.
     * *Role: Team Lead*
 
