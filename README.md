@@ -21,8 +21,8 @@
 ```python
 researcher = {
     "name"    : "Jayden Yun",
-    "school"  : "Sogang University",
     "major"   : ["Economics", "Big Data Science"],
+    "micro"   : ["AI Convergence"],
     "focus"   : [
                   "Economic Policy Analysis",
                   "Macro Factor Models",
@@ -39,12 +39,12 @@ researcher = {
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Malrangbbobbi&show_icons=true&include_all_commits=true&count_private=true&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&icon_color=4f8ef7&text_color=8b9fbc&ring_color=00d4ff"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malrangbbobbi&layout=compact&langs_count=6&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&text_color=8b9fbc"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Malrangbbobbi&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&icon_color=4f8ef7&text_color=8b9fbc&ring_color=00d4ff"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malrangbbobbi&layout=compact&langs_count=6&cache_seconds=86400&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&text_color=8b9fbc"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Malrangbbobbi&background=050d1a&border=00d4ff&stroke=00d4ff&ring=4f8ef7&fire=00ff88&currStreakNum=00d4ff&sideNums=4f8ef7&currStreakLabel=00d4ff&sideLabels=4f8ef7&dates=4a5568"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malrangbbobbi&bg_color=050d1a&color=00d4ff&line=4f8ef7&point=00ff88&area=true&area_color=4f8ef720&hide_border=false&border_color=00d4ff&radius=6"/>
 </div>
 
 ---
@@ -59,54 +59,19 @@ researcher = {
 
 ### 🚀 &nbsp;Competition Portfolio
 
-<details>
-<summary><b>2025</b></summary>
+<div align="center">
 
-<br/>
+| Year | Competition | Description | Award | Role |
+|:---:|:---|:---|:---:|:---:|
+| `2025` | **WorldQuant International Quant Championship** · Korea League | Quantitative modeling & mathematical research in a global competition | 🥈 2nd Place | Lead |
+| `2025` | **Sogang University Convergence Technology Competition** | SDGs-based corporate analysis system with NLP, sentiment analysis & risk-tagging | 🥈 Excellence | Lead |
+| `2024` | **Upstage LLM Project Hackathon** @ Sogang University | Financial AI Translation Service using LLM-based automation | 🏅 Finalist | Lead |
+| `2024` | **Shinhan Financial Group Big Data Hackathon** · Investment & Securities | Renewal strategy for 'Alpha Plus Card' via consumption behavior analysis | 🏅 Finalist | Member |
+| `2024` | **Sogang University AI Automation Hackathon** | Automated economic news summarization service | 🥇 1st Place | Lead |
+| `2024` | **Sogang University Convergence Competition** | Research report on a new factor model based on macroeconomic indicators | 🏅 Finalist | Lead |
+| `2023` | **The 1st SG Competition** · Finance Division | Financial market analysis focused on systematic trading insights | 🏆 Grand Prize | Lead |
 
-**WorldQuant International Quant Championship · Korea League &nbsp;|&nbsp; 🥈 2nd Place**
-> Demonstrated strong quantitative modeling and mathematical research skills in a global competition.
-> *Role: Team Lead*
-
-**Sogang University Convergence Technology Competition &nbsp;|&nbsp; 🥈 Excellence Award**
-> Led a project developing an SDGs-based corporate analysis system integrating NLP, sentiment analysis, and risk-tagging models.
-> *Role: Team Lead*
-
-</details>
-
-<details>
-<summary><b>2024</b></summary>
-
-<br/>
-
-**Upstage LLM Project Hackathon (at Sogang University) &nbsp;|&nbsp; 🏅 Finalist**
-> Developed a specialized Financial AI Translation Service using LLM-based automation.
-> *Role: Team Lead*
-
-**Shinhan Financial Group Big Data Hackathon · Shinhan Investment & Securities Division &nbsp;|&nbsp; 🏅 Finalist**
-> Proposed a renewal strategy for the 'Alpha Plus Card' through behavioral analysis of consumption data.
-> *Role: Team Member*
-
-**Sogang University AI Automation Hackathon &nbsp;|&nbsp; 🥇 1st Place**
-> Built an automated economic news summarization service ("Economic News, Fast and Easy!").
-> *Role: Team Lead*
-
-**Sogang University Convergence Competition &nbsp;|&nbsp; 🏅 Finalist**
-> Authored a research report proposing a new factor model based on macroeconomic indicators.
-> *Role: Team Lead*
-
-</details>
-
-<details>
-<summary><b>2023</b></summary>
-
-<br/>
-
-**The 1st SG Competition · Finance Division &nbsp;|&nbsp; 🏆 Grand Prize**
-> Led a financial market analysis project focused on systematic trading insights.
-> *Role: Team Lead*
-
-</details>
+</div>
 
 ---
 
