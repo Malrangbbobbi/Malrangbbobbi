@@ -16,35 +16,44 @@
 
 ---
 
-### `$ whoami`
+### 👤 &nbsp;About Me
 
-```python
-researcher = {
-    "name"    : "Jayden Yun",
-    "major"   : ["Economics", "Big Data Science"],
-    "micro"   : ["AI Convergence"],
-    "focus"   : [
-                  "Economic Policy Analysis",
-                  "Macro Factor Models",
-                  "Central Bank Policy Research",
-                  "ML / DL / NLP",
-                  "LLM Development",
-                ],
-    "status"  : "🟢 Open to Opportunities",
-}
-```
+<table>
+  <tr>
+    <td><b>🎓 &nbsp;Degree</b></td>
+    <td>Sogang University &nbsp;|&nbsp; <code>Economics</code> &nbsp;·&nbsp; <code>Big Data Science</code></td>
+  </tr>
+  <tr>
+    <td><b>🔬 &nbsp;Micro Major</b></td>
+    <td><code>AI Convergence</code></td>
+  </tr>
+  <tr>
+    <td><b>📌 &nbsp;Focus</b></td>
+    <td>Economic Policy Analysis &nbsp;·&nbsp; Macro Factor Models &nbsp;·&nbsp; Central Bank Policy Research</td>
+  </tr>
+  <tr>
+    <td><b>🤖 &nbsp;Research</b></td>
+    <td>ML / DL / NLP &nbsp;·&nbsp; LLM Development</td>
+  </tr>
+  <tr>
+    <td><b>💼 &nbsp;Status</b></td>
+    <td>🟢 &nbsp;Open to Opportunities</td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Malrangbbobbi&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&icon_color=4f8ef7&text_color=8b9fbc&ring_color=00d4ff"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malrangbbobbi&layout=compact&langs_count=6&cache_seconds=86400&bg_color=050d1a&border_color=00d4ff&title_color=00d4ff&text_color=8b9fbc"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malrangbbobbi&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Malrangbbobbi&bg_color=050d1a&color=00d4ff&line=4f8ef7&point=00ff88&area=true&area_color=4f8ef720&hide_border=false&border_color=00d4ff&radius=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malrangbbobbi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malrangbbobbi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malrangbbobbi&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malrangbbobbi&theme=github_dark&utcOffset=9"/>
 </div>
 
 ---
