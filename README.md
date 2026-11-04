@@ -96,12 +96,12 @@
 
 ### ✍️ &nbsp;Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Korea&#39;s Monetary Policy, Part 2: Transmission and New Challenges](https://malrangbbobbi.github.io/posts/Korean-Monetary-Policy-part2/) <sub>2026-05-12</sub>
+<!-- BLOG-POST-LIST:START -->
+- [Korea&#39;s Monetary Policy, Part 2: Transmission and New Challenges](https://malrangbbobbi.github.io/posts/Korean-Monetary-Policy-part2/) <sub>2026-05-12</sub>
 - [Korea&#39;s Monetary Policy, Part 1: The Toolkit](https://malrangbbobbi.github.io/posts/Korean-Monetary-Policy-part1/) <sub>2026-05-11</sub>
 - [LLMs from Scratch Part 5: BERT and Reading in Both Directions](https://malrangbbobbi.github.io/posts/LLM-part5/) <sub>2026-05-09</sub>
 - [LLMs from Scratch Part 4: Making LLMs Useful with RLHF, InstructGPT, and DPO](https://malrangbbobbi.github.io/posts/LLM-part4/) <sub>2026-05-09</sub>
-- [LLMs from Scratch Part 3: GPT and the Case for Scale](https://malrangbbobbi.github.io/posts/LLM-part3/) <sub>2026-05-09</sub>
-<!-- BLOG-POST-LIST:END -->
+- [LLMs from Scratch Part 3: GPT and the Case for Scale](https://malrangbbobbi.github.io/posts/LLM-part3/) <sub>2026-05-09</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at [malrangbbobbi.github.io](https://malrangbbobbi.github.io/)
 
