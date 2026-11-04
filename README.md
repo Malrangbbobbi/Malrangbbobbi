@@ -65,7 +65,7 @@
 
 | Year | Competition | Description | Award | Role |
 |:---:|:---|:---|:---:|:---:|
-| `2026` | **KRX Securities & Derivatives Competition** | Rebuilt 5 KOSPI200 weekly covered-call indices from minute-level option data; designed a delta-anchored, skew-adjusted strike rule (+12.17bp per roll at ~1/5 execution cost) | 🥇 1st Place<br/>FSC Chairman's Award | Lead |
+| `2026` | **KRX Securities & Derivatives Competition** | Rebuilt 5 KOSPI200 weekly covered-call indices from minute-level option data; designed a delta-anchored, skew-adjusted strike rule (+12.17bp per roll at ~1/5 execution cost) | 🥇 1st Place<br/>FSC Chairman's Award | First Author |
 | `2026` | **Bank of Korea Monetary Policy Competition** · Seoul Regional | Acted as the Monetary Policy Board to decide the July 2026 base rate; recommended a 25bp hike with macroprudential measures | 🥉 3rd Place<br/>BOK Governor's Award | Lead |
 | `2025` | **WorldQuant International Quant Championship** · Korea League | Global alpha research competition with ≈80,000 participants from 142 countries | 🥈 2nd Place | Lead |
 | `2025` | **Sogang University Convergence Technology Competition** | SDGs-based corporate analysis system with NLP, sentiment analysis & risk-tagging | 🥈 Excellence | Lead |
