@@ -120,14 +120,6 @@
 
 ---
 
-### 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malrangbbobbi&theme=darkhub&column=6&no-bg=true&no-frame=true&margin-w=8"/>
-</div>
-
----
-
 ### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
