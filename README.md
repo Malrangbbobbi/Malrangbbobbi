@@ -18,6 +18,8 @@
 
 ### 👤 &nbsp;About Me
 
+> I study central bank policy and derivatives markets, and build quantitative and AI tools to test ideas about them.
+
 <table>
   <tr>
     <td><b>🎓 &nbsp;Degree</b></td>
