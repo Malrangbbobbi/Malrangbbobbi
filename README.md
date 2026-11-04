@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1628,100:0d2040&height=220&section=header&text=JAYDEN%20YUN&fontSize=68&fontColor=00d4ff&fontAlignY=40&desc=Quantitative%20Researcher%20%7C%20Economic%20Policy%20Analyst&descSize=17&descColor=4f8ef7&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&height=45&lines=WorldQuant+IQC+2025+Runner-Up+%F0%9F%8F%86+%C2%B7+Korea+League;Sogang+University+%7C+Economics+%26+Big+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=KRX+Derivatives+Competition+1st+%C2%B7+FSC+Chairman%27s+Award+%F0%9F%A5%87;BOK+Monetary+Policy+Competition+3rd+%C2%B7+Governor%27s+Award+%F0%9F%A5%89;WorldQuant+IQC+2025+%C2%B7+2nd+in+Korea+%F0%9F%8F%86;Sogang+University+%7C+Economics+%26+Big+Data+Science)](https://git.io/typing-svg)
 
 <br/>
 
