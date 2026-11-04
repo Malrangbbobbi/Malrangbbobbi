@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1628,100:0d2040&height=220&section=header&text=JAYDEN%20YUN&fontSize=68&fontColor=00d4ff&fontAlignY=40&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=760&height=45&lines=Quant+Research+%C3%97+Monetary+Policy+%C3%97+AI;KRX+Derivatives+Competition+1st+%C2%B7+FSC+Chairman%27s+Award+%F0%9F%A5%87;BOK+Monetary+Policy+Competition+3rd+%C2%B7+Governor%27s+Award+%F0%9F%A5%89;WorldQuant+IQC+2025+%C2%B7+2nd+in+Korea+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&width=820&height=45&lines=Quant+Research+%C3%97+Monetary+Policy+%C3%97+AI;KRX+Derivatives+Competition+1st+%C2%B7+FSC+Chairman%27s+Award+%F0%9F%A5%87;BOK+Monetary+Policy+Competition+%28Seoul%29+3rd+%C2%B7+Governor%27s+Award+%F0%9F%A5%89;WorldQuant+IQC+2025+%C2%B7+2nd+in+Korea+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <br/>
 
@@ -66,7 +66,7 @@
 | Year | Competition | Description | Award | Role |
 |:---:|:---|:---|:---:|:---:|
 | `2026` | **KRX Securities & Derivatives Competition** | Rebuilt 5 KOSPI200 weekly covered-call indices from minute-level option data; designed a delta-anchored, skew-adjusted strike rule (+12.17bp per roll at ~1/5 execution cost) | 🥇 1st Place<br/>FSC Chairman's Award | First Author |
-| `2026` | **Bank of Korea Monetary Policy Competition** · Seoul Regional | Acted as the Monetary Policy Board to decide the July 2026 base rate; recommended a 25bp hike with macroprudential measures | 🥉 3rd Place<br/>BOK Governor's Award | Lead |
+| `2026` | **Bank of Korea Monetary Policy Competition** · Seoul Regional | Acted as the Monetary Policy Board to decide the July 2026 base rate; recommended a 25bp hike with macroprudential measures | 🥉 3rd Place (Seoul Region)<br/>BOK Governor's Award | Lead |
 | `2025` | **WorldQuant International Quant Championship** · Korea League | Global alpha research competition with ≈80,000 participants from 142 countries | 🥈 2nd Place | Lead |
 | `2025` | **Sogang University Convergence Technology Competition** | SDGs-based corporate analysis system with NLP, sentiment analysis & risk-tagging | 🥈 Excellence | Lead |
 | `2024` | **Upstage LLM Project Hackathon** @ Sogang University | Financial AI Translation Service using LLM-based automation | 🏅 Finalist | Lead |
